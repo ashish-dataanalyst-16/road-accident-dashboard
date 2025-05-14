@@ -55,3 +55,5 @@ Analyze charts to identify high-risk areas and conditions.
 📬 Contact
 
 For questions or feedback, feel free to reach out via GitHub Issues or connect on LinkedIn.
+
+https://github.com/ashish-dataanalyst-16/road-accident-dashboard/blob/main/Screenshot%202025-05-14%20at%2021.06.42.png
